@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 存在感
-description: 存在感对于每个人的生活有多么的重要，可能平时并不是太关注，其实他就是生活的全部
+title: 这是我的第一篇博客
+description: 感谢BeiYuuhttp://beiyuu.com  "BeiYuu"，没有你的指导和你的奉献，我无法走到今天，更无法走的得更远。
 category: blog
 ---
 
