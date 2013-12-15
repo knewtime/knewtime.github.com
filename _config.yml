@@ -5,7 +5,7 @@ pygments:         true
 paginate:         6
 permalink:        /:title
 
-title:            knewtime.com
+title:            年华的博客
 url:              http://knewtime.com
 feed:             /atom.xml
 author:
