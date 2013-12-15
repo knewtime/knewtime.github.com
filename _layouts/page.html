@@ -14,19 +14,8 @@ layout:           default
 <div id="about">
     <div class="about-content">
         <div class="clearfix">
-            <div class="about-left">
-                <h2>Contact</h2>
-                
-            </div>
-            <div class="about-left about-more">
-                <h2>Project</h2>
-                {% for post in site.categories.project %}
-                    <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a><br/>
-                {% endfor %}
-            </div>
-            
+        
         </div>
-
         <div class="copyright right">
             <p>Thanks to <a href="http://beiyuu.com" title="BeiYuu" target="_blank">BeiYuu</a> © 2013</p>
         </div>
